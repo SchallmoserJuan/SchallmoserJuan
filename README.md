@@ -1,4 +1,4 @@
-# Hola! Soy Juan Schallmoser, Estudiante de programación. 🤓
+# Hola! Soy Juan Schallmoser, Estudiante de programación. 
 
 ## ✨ Ahora mismo me encuentro estudiando programacion Web FullStack ✨
 ## 💫 Acerca de mi:
