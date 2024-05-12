@@ -1,32 +1,58 @@
-# Hola! Soy Juan Schallmoser, Estudiante de programación. 
+<!-- Encabezado -->
+<h1 align="center">¡Hola, soy Juan Schallmoser! 👋🚀</h1>
+<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZpdjFlY3h0cXZuNGpoN3o0azVlNXI5dWkzcnd6MjU4YmNudDJvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tBwXwUufSNkCKJxBm5/giphy.gif">
+</div>
 
-##  Ahora mismo me encuentro estudiando programacion Web FullStack 
-##  Acerca de mi:
-- 🚀 Enfocado en  **construir mis skills de Full-Stack**!
-- 🎓 **FullStack / UX-UI** en **[![NUCBA](https://img.shields.io/badge/NUCBA%20%F0%9F%A4%93-black.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABDlBMVEX////+//7+//8AAAD////////////////////////////////////////////+//7+//7////////////+/v7+//7////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+///+/v7///////////////8zyHzPAAAAWXRSTlMAAAAABSVeqOhfCmOr3PhkCgxz5XQRmT4ynfKeNkyp5OqJKL/8/cBOM/HiudRkJGttLHTet47++iIpxIxdYu9c7j0g3R8HkfaGBg116eFmCETIvDixW1SfGwvjijMAAAABYktHRACIBR1IAAAAB3RJTUUH5gsQBBcNVztkRgAAAKdJREFUCNc1i1USwlAUQwOFFivu7u7S4u7ucPe/EXjI+cjkTCYAVGpe0GgErVqlUEKnN4hGemMUDSYzLFYb/bDZHXC63B4vE6/PHwgiFI5EA7F4IplKOzNZ5IjyhWKpXKnWiOpoSERyvdlqJ4ikDgoyO3a7LOUeXH1W+AHL4QjjyUc/qzjFbC7/dbFcAevN9qu7/QGM40nS8vHzBeDAcUDxers/nm/jXs1NJ0Z7oeb2AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIyLTExLTE2VDA0OjIzOjEzKzAwOjAwyt7EnAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMi0xMS0xNlQwNDoyMzoxMyswMDowMLuDfCAAAAAodEVYdGRhdGU6dGltZXN0YW1wADIwMjItMTEtMTBUMTk6MDk6NTcrMDA6MDBab7byAAAAOHRFWHRpY2M6Y29weXJpZ2h0AENvcHlyaWdodCAoYykgMTk5OCBIZXdsZXR0LVBhY2thcmQgQ29tcGFueflXeTcAAAAhdEVYdGljYzpkZXNjcmlwdGlvbgBzUkdCIElFQzYxOTY2LTIuMVet2kcAAAAmdEVYdGljYzptYW51ZmFjdHVyZXIASUVDIGh0dHA6Ly93d3cuaWVjLmNoHH8ATAAAADd0RVh0aWNjOm1vZGVsAElFQyA2MTk2Ni0yLjEgRGVmYXVsdCBSR0IgY29sb3VyIHNwYWNlIC0gc1JHQkRTSKkAAAAASUVORK5CYII=)](https://nucba.com.ar/)**
-- 🌱 **Ambicioso** de aprender **nuevas tecnologias**
-- 🤝 Siempre con ganas de **establecer contactos** con otros **diseñadores/desarrolladores**.
+<!-- Sección de presentación -->
+<p align="center">¡Bienvenido a mi perfil de GitHub! Soy un apasionado técnico programador con un espíritu innovador y una pasión por la creación de soluciones tecnológicas.</p>
 
+<!-- Sección de aptitudes -->
+<h2 align="center">Aptitudes 🎯</h2>
+<p align="center">Programación en C# y Java | Desarrollo Full Stack | Resolución de problemas | Trabajo en equipo</p>
 
----
-# 🌐 Encontrame tambien por aca!
-[![LinkedIn URL](https://img.shields.io/twitter/url?color=%230e76a8&label=LinkedIn&logo=Linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fadel-fetner%2F)](https://www.linkedin.com/in/juanschallmoser/)
-[![Twitter URL](https://img.shields.io/twitter/url?color=lightblue&label=Twitter%21&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fadelfetner)](https://twitter.com/SchallmoserJuan)\
-[![Instagram URL](https://img.shields.io/twitter/url?color=%23FD1D1D&label=Instagram%21&logo=Instagram&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fadelfetner%2F)](https://www.instagram.com/juanschallmoser/)
-[![GitHub followers](https://img.shields.io/github/followers/adelfetner?color=%23DD332B&label=Follow%20me%21&logo=github&logoColor=white&style=for-the-badge)](https://github.com/SchallmoserJuan)
+<!-- Sección de educación -->
+<h2 align="center">Educación 📚</h2>
+<p align="center">
+  Técnico Superior en Desarrollo de Software (IFTS 29) | Técnico Universitario en Programación (UTN - San Rafael)
+</p>
 
----
+<!-- Sección de cursos -->
+<h2 align="center">Cursos 📝</h2>
+<p align="center">
+  C# - Microsoft Learning | Programación Web FullStack - Nucba | Programación BackEnd - Alura
+</p>
 
+<!-- Sección de habilidades técnicas -->
+<h2 align="center">Habilidades Técnicas 💻</h2>
+<p align="center">
+  Lenguajes de Programación: C#, Java, Python, HTML, CSS, JavaScript <br>
+  Frameworks: ASP.NET Core, Spring Boot <br>
+  Base de datos: Entity Framework, Hibernate, MySQL
+</p>
 
+<!-- Sección de tech stack -->
+<h2 align="center">Tech Stack 🛠️</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-Intermedio-yellow"> <img src="https://img.shields.io/badge/Java-Intermedio-yellow"> <img src="https://img.shields.io/badge/HTML-Intermedio-yellow"> <img src="https://img.shields.io/badge/CSS-Intermedio-yellow"> <img src="https://img.shields.io/badge/JavaScript-Intermedio-yellow"> <img src="https://img.shields.io/badge/ASP.NET_Core-Intermedio-yellow"> <img src="https://img.shields.io/badge/Spring_Boot-Intermedio-yellow"> <img src="https://img.shields.io/badge/Entity_Framework-Intermedio-yellow"> <img src="https://img.shields.io/badge/Hibernate-Intermedio-yellow"> <img src="https://img.shields.io/badge/MySQL-Intermedio-yellow">
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)\
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)\
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+<!-- Sección de rachas -->
+<h2 align="center">Rachas 🏆</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SchallmoserJuan" style="width: 100%;">
+</p>
 
----
+<!-- Sección de contacto -->
+<h2 align="center">Contacto 📧</h2>
+<p align="center">
+  Correo Electrónico: schallmoserjuan@gmail.com <br>
+  LinkedIn: <a href="https://www.linkedin.com/JuanSchallmoser">linkedin.com/JuanSchallmoser</a>
+</p>
+
+<!-- Sección de resumen -->
+<h2 align="center">Acerca de Mí 🙋‍♂️</h2>
+<p align="center">
+  ¡Soy un apasionado estudiante de desarrollo de software con habilidades sólidas en C# y .NET, y un interés creciente en Java! Me comprometo con el aprendizaje continuo y la creación de soluciones innovadoras para enfrentar los desafíos del mundo tecnológico actual. ¡Conéctate conmigo y construyamos algo increíble juntos!
+</p>
 
