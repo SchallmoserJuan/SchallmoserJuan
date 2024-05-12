@@ -1,7 +1,7 @@
 <!-- Encabezado -->
 <h1 align="center">¡Hola, soy Juan Schallmoser! 👋🚀</h1>
-<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZpdjFlY3h0cXZuNGpoN3o0azVlNXI5dWkzcnd6MjU4YmNudDJvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tBwXwUufSNkCKJxBm5/giphy.gif">
+<div align="center">
+  <img src="https://64.media.tumblr.com/f87de05a466f581ad5939deef290b5e4/d47591e26fef99e0-11/s540x810/2575fe907bc7e520d2052a77c589ab86bfeccbc5.gifv">
 </div>
 
 <!-- Sección de presentación -->
