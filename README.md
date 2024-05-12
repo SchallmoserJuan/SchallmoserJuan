@@ -1,7 +1,7 @@
 <!-- Encabezado -->
 <h1 align="center">¡Hola, soy Juan Schallmoser! 👋🚀</h1>
 <div align="center">
-  <img src="https://64.media.tumblr.com/f87de05a466f581ad5939deef290b5e4/d47591e26fef99e0-11/s540x810/2575fe907bc7e520d2052a77c589ab86bfeccbc5.gifv">
+  <img src="https://media1.tenor.com/m/35G3scXwjq4AAAAC/mario-bros.gif">
 </div>
 
 <!-- Sección de presentación -->
