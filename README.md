@@ -1,5 +1,5 @@
 # 💫 About Me:
-{<br>😎 Hey! I'm Juan,<br>⚡ I'm: 23 years old,<br>🌱 I’m currently learning: React and Node,<br>❤️ I love the sunsets!<br>}
+{<br>😎 Hey! I'm Juan,<br>⚡ I'm: 23 years old,<br>🌱 I’m currently learning: React and Node<br>}
 
 
 # 💻 Tech Stack:
