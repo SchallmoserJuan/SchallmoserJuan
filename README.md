@@ -1,58 +1,18 @@
-<!-- Encabezado -->
-<h1 align="center">¡Hola, soy Juan Schallmoser! 👋🚀</h1>
-<div align="center">
-  <img src="https://media1.tenor.com/m/35G3scXwjq4AAAAC/mario-bros.gif">
-</div>
+# 💫 About Me:
+{<br>😎 Hey! I'm Juan,<br>⚡ I'm: 23 years old,<br>🌱 I’m currently learning: React and Node,<br>❤️ I love the sunsets!<br>}
 
-<!-- Sección de presentación -->
-<p align="center">¡Bienvenido a mi perfil de GitHub! Soy un apasionado técnico programador con un espíritu innovador y una pasión por la creación de soluciones tecnológicas.</p>
 
-<!-- Sección de aptitudes -->
-<h2 align="center">Aptitudes 🎯</h2>
-<p align="center">Programación en C# y Java | Desarrollo Full Stack | Resolución de problemas | Trabajo en equipo</p>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SchallmoserJuan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SchallmoserJuan&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SchallmoserJuan&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Sección de educación -->
-<h2 align="center">Educación 📚</h2>
-<p align="center">
-  Técnico Superior en Desarrollo de Software (IFTS 29) | Técnico Universitario en Programación (UTN - San Rafael)
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SchallmoserJuan&theme=holi&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Sección de cursos -->
-<h2 align="center">Cursos 📝</h2>
-<p align="center">
-  C# - Microsoft Learning | Programación Web FullStack - Nucba | Programación BackEnd - Alura
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=SchallmoserJuan&icon=7&color=12)](https://visitcount.itsvg.in)
 
-<!-- Sección de habilidades técnicas -->
-<h2 align="center">Habilidades Técnicas 💻</h2>
-<p align="center">
-  Lenguajes de Programación: C#, Java, Python, HTML, CSS, JavaScript <br>
-  Frameworks: ASP.NET Core, Spring Boot <br>
-  Base de datos: Entity Framework, Hibernate, MySQL
-</p>
-
-<!-- Sección de tech stack -->
-<h2 align="center">Tech Stack 🛠️</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-Intermedio-yellow"> <img src="https://img.shields.io/badge/Java-Intermedio-yellow"> <img src="https://img.shields.io/badge/HTML-Intermedio-yellow"> <img src="https://img.shields.io/badge/CSS-Intermedio-yellow"> <img src="https://img.shields.io/badge/JavaScript-Intermedio-yellow"> <img src="https://img.shields.io/badge/ASP.NET_Core-Intermedio-yellow"> <img src="https://img.shields.io/badge/Spring_Boot-Intermedio-yellow"> <img src="https://img.shields.io/badge/Entity_Framework-Intermedio-yellow"> <img src="https://img.shields.io/badge/Hibernate-Intermedio-yellow"> <img src="https://img.shields.io/badge/MySQL-Intermedio-yellow">
-</p>
-
-<!-- Sección de rachas -->
-<h2 align="center">Rachas 🏆</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SchallmoserJuan" style="width: 100%;">
-</p>
-
-<!-- Sección de contacto -->
-<h2 align="center">Contacto 📧</h2>
-<p align="center">
-  Correo Electrónico: schallmoserjuan@gmail.com <br>
-  LinkedIn: <a href="https://www.linkedin.com/JuanSchallmoser">linkedin.com/JuanSchallmoser</a>
-</p>
-
-<!-- Sección de resumen -->
-<h2 align="center">Acerca de Mí 🙋‍♂️</h2>
-<p align="center">
-  ¡Soy un apasionado estudiante de desarrollo de software con habilidades sólidas en C# y .NET, y un interés creciente en Java! Me comprometo con el aprendizaje continuo y la creación de soluciones innovadoras para enfrentar los desafíos del mundo tecnológico actual. ¡Conéctate conmigo y construyamos algo increíble juntos!
-</p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
