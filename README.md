@@ -1,5 +1,5 @@
 # About Me:
-{<br>⚡ 23 years old<br>🌱 currently learning: React and Node<br>}
+{<br>⚡ 23 years old<br>🌱 currently learning: Typescript<br>}
 
 
 # 💻 Tech Stack:
