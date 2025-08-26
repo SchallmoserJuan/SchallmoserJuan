@@ -1,5 +1,5 @@
 # About Me:
-{<br>⚡ 23 years old<br>🌱 currently learning: AWS<br>}
+{<br>⚡ 24 years old<br>🌱 currently learning: AWS<br>}
 
 
 # 💻 Tech Stack:
