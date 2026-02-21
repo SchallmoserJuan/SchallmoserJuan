@@ -1,5 +1,8 @@
 # About Me:
-{<br>⚡ 24 years old<br>🌱 currently: Learning Typescript & Developing [GoMove](https://gomove.com.ar)<br>}
+{<br>⚡ 24 years old<br>🌱 currently: Learning Java / AWS and Deutsch
+
+# Projects
+[GoMove](https://gomove.com.ar)<br>}
 
 
 # 💻 Tech Stack:
