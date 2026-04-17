@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <p>🏗️ <strong>Focus:</strong> Migrating core skills to <strong>Java / Spring Boot</strong> & <strong>AWS Cloud Development</strong>.</p>
+  <p>🦎 <strong>Focus:</strong> Migrating core skills to <strong>Java / Spring Boot</strong> & <strong>AWS Cloud Development</strong>.</p>
   <p>🇩🇪 <strong>Languages:</strong> Spanish (Native), English (B2), German (A1 & learning!)</p>
 </div>
 
@@ -47,6 +47,7 @@
 - 📅 [Eventify](https://github.com/SchallmoserJuan/EventifyTP3) Full-stack event & task management system with JWT authentication, RBAC, and integration testing.
 - 🧱 [LegoDevs3](https://github.com/SchallmoserJuan/LegoDevs3) Modern React dashboard with API/JSON data fetching, Framer Motion animations, and modular profile systems.
 - ⚽ [ClubDeportivoApp](https://github.com/SchallmoserJuan/ClubDeportivoApp) Native Android app built with Kotlin and SQLite for member management and PDF receipt generation.
+- 🖥️ [Employee Manager](https://github.com/SchallmoserJuan/Proyecto_MDS) C# desktop application for enterprise resource management using Windows Forms and MySQL.
 
 <h2 align="center">🔧 Skills</h2>
 
