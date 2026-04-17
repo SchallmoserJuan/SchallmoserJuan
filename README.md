@@ -16,6 +16,8 @@
   <p>🇩🇪 <strong>Languages:</strong> Spanish (Native), English (B2), German (A1 & learning!)</p>
 </div>
 
+<br/>
+
 <h2 align="center">🚀 Featured Project: <a href="https://gomove.com.ar">GoMove</a></h2>
 
 <p align="center">
