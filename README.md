@@ -5,7 +5,7 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=schallmoserjuan&layout=compact&hide_border=true&theme=react&bg_color=00000000">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=schallmoserjuan&theme=react&hide_border=true&background=FFFFFF00">
 </p>
-
+ 
 <p align="center">
   <em>Final-year Software Development student @ IFTS 29.</em><br>
   <strong>Passionate about Backend Architecture, Cloud Infrastructure, and clean code.</strong>
