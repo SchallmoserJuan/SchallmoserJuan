@@ -5,39 +5,6 @@
   <img src ="https://github-readme-stats-fast.vercel.app/api/streak?username=schallmoserjuan&theme=react&hide_border=true&bg_color=00000000">
   <img src ="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SchallmoserJuan&layout=compact&hide_border=true&theme=react&bg_color=00000000">
 </p>
- 
-<p align="center">
-  <em>Final-year Software Development student @ IFTS 29.</em><br>
-  <strong>Passionate about Backend Architecture, Cloud Infrastructure, and clean code.</strong>
-</p>
-
-<div align="center">
-  <p>🦎 <strong>Focus:</strong> Migrating core skills to <strong>Java / Spring Boot</strong> & <strong>AWS Cloud Development</strong>.</p>
-  <p>🇩🇪 <strong>Languages:</strong> Spanish (Native), English (B2), German (A1 & learning!)</p>
-</div>
-
-<br/>
-
-<h2 align="center">🚀 Featured Project: <a href="https://gomove.com.ar">GoMove</a></h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-In_Production-success?style=flat-square&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-MERN_/_Firebase-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Users-Active_Clients-orange?style=flat-square" />
-</p>
-
-<blockquote>
-  <strong>The ultimate fitness ecosystem for coaches and gyms.</strong> A comprehensive SaaS designed to streamline member management, automate workout creation through Artificial Intelligence, and maximize client retention via gamification and social dynamics.
-</blockquote>
-
-<h3>✨ Key Highlights:</h3>
-
-<ul>
-  <li><strong>AI-Powered Automation:</strong> Features an intelligent LLM-driven routine generator (powered by Groq) that dynamically crafts personalized, optimized workout plans to drastically reduce administrative workload.</li>
-  <li><strong>Built-in Gamification:</strong> Drives user engagement and motivation through XP levels, streak tracking, team challenges, unlockable badges, and an interactive community feed.</li>
-  <li><strong>Mobile-First UX:</strong> Designed as a lightning-fast PWA with a premium "dark mode" aesthetic, dynamic branding theming, and seamless on-the-go performance tracking.</li>
-  <li><strong>Robust Infrastructure:</strong> Scalable serverless architecture powered by React, TypeScript, and Firebase, featuring secure payment integrations and QR-based gym machine tracking.</li>
-</ul>
 
 <h2 align="center">Some Projects</h2>
 
