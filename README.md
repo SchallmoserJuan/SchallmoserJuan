@@ -18,7 +18,7 @@
 -  [ClubDeportivoApp](https://github.com/SchallmoserJuan/ClubDeportivoApp) Native Android app built with Kotlin and SQLite for member management and PDF receipt generation.
 -  [Employee Manager](https://github.com/SchallmoserJuan/Proyecto_MDS) C# desktop application for enterprise resource management using Windows Forms and MySQL.
 
-<h2 align="center">🔧 Skills</h2>
+<h2 align="center">Skills</h2>
 
 <h4 align="center">💻 Programming Languages</h4>
 
