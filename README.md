@@ -47,7 +47,7 @@
 <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
 </p>
 
-<h4 align="center">☁️ Cloud and Databases</h4>
+<h4 align="center">Cloud and Databases</h4>
 
 <p align="center">
 <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
