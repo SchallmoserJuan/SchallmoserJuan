@@ -33,7 +33,7 @@
 <a href="https://github.com/search?q=user%3ASchallmoserJuan+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 </p>
 
-<h4 align="center">📚 Frameworks and Libraries</h4>
+<h4 align="center">Frameworks and Libraries</h4>
 
 <p align="center">
 <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white"></a>
